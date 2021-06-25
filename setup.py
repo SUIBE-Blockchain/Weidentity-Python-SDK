@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name='pyweidentity',
     version='1.0',
-    author="99Kies",
+    author=["99Kies", "leeduckgo"],
     author_email='1290017556@qq.com',
     url="https://github.com/SUIBE-Blockchain/Weidentity-Python-SDK",
     packages=find_packages(),
