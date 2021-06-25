@@ -1,2 +1,5 @@
 __pycache__
 .idea/
+.pypirc
+pyweidentity.egg-info/
+dist/

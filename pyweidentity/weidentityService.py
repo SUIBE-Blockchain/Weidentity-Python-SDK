@@ -1,6 +1,4 @@
-import requests
 import logging
-from pprint import pprint
 from .Base import Base
 
 LOG = logging.getLogger(__name__)
